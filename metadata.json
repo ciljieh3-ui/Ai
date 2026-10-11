@@ -1,0 +1,6 @@
+{
+  "name": "Aura AI",
+  "description": "Asisten AI pribadi ultra ringan dan modern dengan tweak performa anti-lag untuk semua spesifikasi HP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
